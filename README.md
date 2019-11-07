@@ -18,6 +18,8 @@ Bei der Erstellung dieser Gruppe viel auf, dass ein Guide zur Arbeit mit Git sin
 
 ## Was ist GIT?
 
+Git ist eine freie Software zur verteilten Versionsverwaltung von Dateien, die durch Linus Torvalds initiiert wurde.
+
 ## Welchen Nutzen bringt GIT?
 
 ## Was ist ein BRANCH?
