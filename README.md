@@ -2,13 +2,13 @@
 
 ## Inhaltsverzeichnis
 
-* Einleitung
-* Was ist GIT?
-* Welchen Nutzen bringt GIT?
-* Was ist ein BRANCH?
-* Was ist Mergen?
-* Repository Struktur mit GIT
-* Quellen
+1. [Einleitung](#einleitung)
+2. [Was ist GIT?](#was-ist-git)
+3. [Welchen Nutzen bringt GIT?](#welchen-nutzen-bringt-git)
+4. [Was ist ein BRANCH?](#was-ist-ein-branch)
+5. [Was ist Mergen?](#was-ist-mergen)
+6. [Repository Struktur mit GIT](#repository-struktur-mit-git)
+7. [Quellen](#quellen)
 
 
 ## Einleitung
